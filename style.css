@@ -48,6 +48,17 @@ button:hover {
     color: white;
 }
 
+select {
+    background-color: #fff;
+    color: #ff69b4;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 1em;
+    border-radius: 5px;
+}
+
 main {
     max-width: 800px;
     margin: 20px auto;
